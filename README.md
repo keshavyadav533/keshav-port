@@ -6,11 +6,15 @@ This is my personal portfolio website showcasing my skills, projects, and journe
 
 I'm Keshav Yadav, a passionate Full Stack Developer and Computer Science student. This portfolio highlights my technical skills, projects, and learning journey.
 
-## Instructions 🛠️
+## Tech Stack 🛠️
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+**Frontend:** React, TypeScript, GSAP (with ScrollSmoother & SplitText), Three.js, WebGL, HTML5, CSS3
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
+**3D Graphics:** Three.js with Draco compression, Custom character animations, HDR environment mapping
+
+**Build Tools:** Vite, TypeScript
+
+**Note:** This project uses the **free version of GSAP** (as of April 2025, all GSAP plugins including premium ones are now 100% free!). Learn more: https://gsap.com/
 
 ![Portfolio-Preview](public/images/preview.png)
 
